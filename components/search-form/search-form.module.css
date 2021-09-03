@@ -1,0 +1,21 @@
+.form {
+  width: 90%;
+  max-width: 40rem;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: rgb(147, 179, 179);
+  border-radius: 5px;
+}
+
+.form label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.form select {
+  width: 150px;
+  height: 32px;
+  border-radius: 5px;
+}

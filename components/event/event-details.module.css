@@ -1,0 +1,10 @@
+.details {
+  width: 90%;
+  max-width: 40rem;
+  margin: 5rem auto;
+}
+
+.details img{
+  width: 100%;
+  height: auto;
+}
